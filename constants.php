@@ -13,5 +13,6 @@ echo DB_PASS2;
 echo "<br>";
 
 // Magic constants
+
 // echo __DIR__; 
 // echo __FILE__; 
