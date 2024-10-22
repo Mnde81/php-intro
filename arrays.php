@@ -97,3 +97,4 @@ echo "Age: " . $age;
 echo "<br>";
 
 echo $_SERVER["SERVER_NAME"];
+echo $_SERVER["HTTP_USER_AGENT"];
