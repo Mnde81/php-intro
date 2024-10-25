@@ -1,0 +1,6 @@
+fopen()
+fwrite()
+fread()
+fclose()
+file_exists()
+unlink()Hello I am a new paragraph
