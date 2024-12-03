@@ -3,7 +3,7 @@
 class User {
     public $name = "John";
     protected $email = 'john@john.com';
-    private $password = 'secret123';
+    private $password = 'sample';
 
     public function displayEmail() {
         return $this->email;
